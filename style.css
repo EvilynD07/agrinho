@@ -1,0 +1,8 @@
+body {
+    color: white;
+    background-color: rgb(122, 71, 138);
+}
+
+ul {
+    display: flex;
+    justify-content: space-between
